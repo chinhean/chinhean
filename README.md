@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🌱 I’m budding in data science and eager to explore the world of data analysis and machine learning.
+
+🔍 Currently, I’m focusing on learning the foundational skills necessary for data science.
+
 <!--
 **chinhean/chinhean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
